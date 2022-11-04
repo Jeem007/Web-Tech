@@ -1,0 +1,19 @@
+<?php 
+//you login codes following 
+   
+$login_tym = date('Y-m-d H:i:s'); 
+ 
+// and save to db to the field login_tym 
+ 
+?> 
+and
+
+<?php 
+//you logout codes following 
+ 
+  
+$logout_tym = date('Y-m-d H:i:s'); 
+ 
+// and save to db to the field login_tym 
+ 
+?> 
